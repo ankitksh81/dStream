@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.shadow-primary {
+  box-shadow: 1px -14px 21px -15px rgba(0,0,0,0.21);
+  -webkit-box-shadow: 1px -14px 21px -15px rgba(0,0,0,0.21);
+  -moz-box-shadow: 1px -14px 21px -15px rgba(0,0,0,0.21);
+}
+
+.shadow-card {
+  box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.21);
+  -webkit-box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.21);
+  -moz-box-shadow: 1px 0px 10px 0px rgba(0,0,0,0.21);
+}
